@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import './settings.css';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faCheck } from '@fortawesome/free-solid-svg-icons';
+import { FontAwesomeIcon } from '@fontawesome/react-fontawesome';
+import { faCheck } from '@fontawesome/free-solid-svg-icons';
 
 const Settings = () => {
   const colors = [
